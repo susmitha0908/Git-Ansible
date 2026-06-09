@@ -3,7 +3,7 @@
     "aws.autoscaling"
   ],
   "detail-type": [
-    "EC2 Instance Launch Successful"
+    "EC2 Instance Launch Successful1"
   ],
   "detail": {
     "AutoScalingGroupName": [
